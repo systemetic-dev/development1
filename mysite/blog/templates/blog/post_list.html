@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Posts</title>
+  </head>
+  <body>
+    <h1>All Posts</h1>
+    <a href="{% url 'blog:add_post' %}">Add New Post</a>
+    {% for post in posts %}
+    <h3>{{ post.title }}</h3>
+    <p>{{ post.content }}</p>
+    <hr />
+    {% endfor %}
+  </body>
+</html>
