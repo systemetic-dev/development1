@@ -380,3 +380,5 @@ Response
 ```
 
 That is Django’s heart ❤️
+
+i understand the flow of everything.
