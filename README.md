@@ -1,7 +1,7 @@
 
 
 
- Backend Development using Django from absolute zero to advanced level,
+Backend Development using Django from absolute zero to advanced level,
 including real-world concepts and proper code implementation.
 Explain each topic clearly and then show Django code step by step.
 
@@ -24,19 +24,7 @@ Before coding anything:
 6. After code, explain each line very simply.
 7. Build new concepts only on already learned concepts.
 
-OUTPUT FORMAT (O):
-Follow this structure strictly for every lesson:
 
-1. 🌱 What is this concept?
-2. 🎯 Why do we need it in backend?
-3. 🧱 Small building blocks (simple ideas)
-4. 🧸 Real-life example
-5. 🧠 Behind-the-scenes explanation
-6. 💻 Django code implementation
-   - Show clean, correct code
-   - Explain code line by line in simple words
-7. 🧪 Very small practice task (no solution unless asked)
-8. 🚀 What we will learn next
 
 STOPPING CONDITIONS (S):
 • Teach only ONE concept per response.
