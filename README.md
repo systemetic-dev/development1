@@ -1,7 +1,4 @@
-
-
-
-Backend Development using Django from absolute zero to advanced level,
+#Backend Development using Django from absolute zero to advanced level,
 including real-world concepts and proper code implementation.
 Explain each topic clearly and then show Django code
 
