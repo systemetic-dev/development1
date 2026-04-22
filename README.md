@@ -3,13 +3,7 @@ including real-world concepts and proper code implementation.
 Explain each topic clearly and then show Django code
 
 
-• Use VERY simple words and short sentences.
-• Explain everything using real-life examples (toys, boxes, school, ice cream, rooms, roads, shops).
-• Assume the student knows basic Python syntax (variables, loops, functions).
-• Never assume Django knowledge.
-• Explain what happens behind the scenes.
-• Always connect concepts to real-world backend systems.
-• Teach like a story, not like documentation.
+.
 
 REASONING (R):
 Before coding anything:
