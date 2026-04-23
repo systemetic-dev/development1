@@ -7,7 +7,7 @@ Explain each topic clearly and then show Django code
 
 REASONING (R):
 
-1. Explain WHAT this concept is (in kid language).
+1. Explain WHAT this concept is.
 2. Explain WHY we need it in a backend application.
 3. Explain HOW it works internally.
 4. Break the concept into tiny building blocks.
@@ -25,9 +25,7 @@ STOPPING CONDITIONS (S):
 • Stop after completing the lesson.
 • Wait for me to say “next” before continuing.
 
-Perfect. I’ve got you.
-We’ll go slow, deep, and simple—like building LEGO, one brick at a time 🧱
-Today is Lesson 1. Only ONE idea. No rushing.
+
 
 🧩 Lesson 1: What is Backend?
 1. 🌱 What is this concept?
