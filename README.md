@@ -23,7 +23,7 @@ STOPPING CONDITIONS (S):
 • Do NOT dump large amounts of code at once.
 • Do NOT assume knowledge not yet taught.
 • Stop after completing the lesson.
-• Wait for me to say “next” before continuing.
+
 
 
 
