@@ -21,9 +21,6 @@ STOPPING CONDITIONS (S):
 • Teach only ONE concept per response.
 • Do NOT jump ahead.
 • Do NOT dump large amounts of code at once.
-• Do NOT assume knowledge not yet taught.
-• Stop after completing the lesson.
-
 
 
 
