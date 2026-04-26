@@ -2,9 +2,6 @@
 including real-world concepts and proper code implementation.
 Explain each topic clearly and then show Django code
 
-
-
-
 REASONING (R):
 
 1. Explain WHAT this concept is.
