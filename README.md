@@ -3,7 +3,6 @@ including real-world concepts and proper code implementation.
 Explain each topic clearly and then show Django code
 
 REASONING (R):
-
 1. Explain WHAT this concept is.
 2. Explain WHY we need it in a backend application.
 3. Explain HOW it works internally.
@@ -14,8 +13,7 @@ REASONING (R):
 
 
 
-STOPPING CONDITIONS (S):
-• Teach only ONE concept per response.
+STOPP
 • Do NOT dump large amounts of code at once.
 
 
