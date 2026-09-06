@@ -1,4 +1,4 @@
-Django talks to database
+
 
 Django sends response
 
