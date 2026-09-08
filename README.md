@@ -1,4 +1,4 @@
-Important thing ❗
+
 Django does NOT show pages directly.
 
 It:
